@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "どうせ振り向かない",
+  "base_artist": "Toipu",
+  "createdAt": "2026-01-12T15:40:07.163077Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どうせ振り向かない",
+      "artist": "Toipu",
+      "has_synced": false,
+      "path": "select/pl_01_どうせ振り向かない_Toipu.txt"
+    }
+  ]
+}
